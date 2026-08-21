@@ -69,5 +69,4 @@ The aim is to design, implement, and analyze a D flip-flop using Cadence EDA too
 
 
 ## Results
-1. Successfully designed the D flip-flop schematic using Cadence EDA tools.
 
