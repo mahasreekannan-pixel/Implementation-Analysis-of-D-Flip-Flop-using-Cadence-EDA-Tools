@@ -70,5 +70,4 @@ The aim is to design, implement, and analyze a D flip-flop using Cadence EDA too
 
 ## Results
 1. Successfully designed the D flip-flop schematic using Cadence EDA tools.
-2. The simulation results verified the correct sequential logic behavior, ensuring that the Q output correctly follows the D input on the rising edge of the clock.
-3. The waveform analysis demonstrated the expected timing behavior and performance of the D flip-flop circuit.
+
